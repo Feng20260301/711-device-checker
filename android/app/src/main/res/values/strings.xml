@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">711设备检测</string>
+    <string name="title_activity_main">711设备检测</string>
+    <string name="package_name">com.seveneleven.devicedetector</string>
+    <string name="custom_url_scheme">com.seveneleven.devicedetector</string>
+</resources>
